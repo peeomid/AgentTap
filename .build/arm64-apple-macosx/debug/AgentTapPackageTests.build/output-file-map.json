@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/master.swiftdeps"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/runner.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/runner.dia"
+  }
+}

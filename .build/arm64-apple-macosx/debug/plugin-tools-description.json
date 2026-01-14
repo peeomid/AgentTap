@@ -1,0 +1,1314 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.xctest/Contents/MacOS/AgentTapPackageTests",
+      "packagePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap",
+      "productName" : "AgentTapPackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap_AgentTap.bundle/AgentTap.icns" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/Resources/AgentTap.icns"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap_AgentTap.bundle/AgentTap.icns"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AgentTap-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/sources",
+      "importPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentIcon.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentTapApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentType.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AppEnvironment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/Components.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/EmptyStateView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/IconRenderer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/MainWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/MainWindowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/NotificationCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SettingsWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SetupView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/StatusItemController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<AgentTap-arm64-apple-macosx15.0-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "AgentTap",
+      "moduleOutputPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTap.swiftmodule",
+      "objects" : [
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentIcon.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentTapApp.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentType.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AppDelegate.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AppEnvironment.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/Components.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/EmptyStateView.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/IconRenderer.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/MainWindowController.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/MainWindowView.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/NotificationCoordinator.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SettingsView.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SettingsWindowController.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SetupView.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/StatusItemController.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-module-cache-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "AgentTap_main",
+        "-color-diagnostics",
+        "-swift-version",
+        "6",
+        "-enable-upcoming-feature",
+        "StrictConcurrency",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "agenttap"
+      ],
+      "outputFileMapPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentIcon.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentTapApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AppEnvironment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/Components.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/EmptyStateView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/IconRenderer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/MainWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/MainWindowView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/NotificationCoordinator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SettingsWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SetupView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/StatusItemController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTap.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentIcon.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentTapApp.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentType.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AppDelegate.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AppEnvironment.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/Components.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/EmptyStateView.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/IconRenderer.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/MainWindowController.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/MainWindowView.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/NotificationCoordinator.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SettingsView.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SettingsWindowController.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SetupView.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/StatusItemController.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AgentTapCore-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/sources",
+      "importPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AGJClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentModels.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/CommandRunner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PathEnvironment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PermissionTransitionDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/SettingsStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AgentTapCore",
+      "moduleOutputPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapCore.swiftmodule",
+      "objects" : [
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector.swift.o",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/include/AgentTapCore-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "6",
+        "-enable-upcoming-feature",
+        "StrictConcurrency",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "agenttap"
+      ],
+      "outputFileMapPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AGJClient.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentModels.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentStore.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/CommandRunner.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PathEnvironment.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PermissionTransitionDetector.swift",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/SettingsStore.swift"
+      ],
+      "tempsPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AgentTapCoreTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/sources",
+      "importPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Tests/AgentTapCoreTests/PermissionTransitionDetectorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AgentTapCoreTests",
+      "moduleOutputPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapCoreTests.swiftmodule",
+      "objects" : [
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/PermissionTransitionDetectorTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-swift-version",
+        "6",
+        "-enable-upcoming-feature",
+        "StrictConcurrency",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "agenttap"
+      ],
+      "outputFileMapPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/PermissionTransitionDetectorTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapCoreTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/Tests/AgentTapCoreTests/PermissionTransitionDetectorTests.swift"
+      ],
+      "tempsPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AgentTapPackageTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/sources",
+      "importPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapCoreTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AgentTapPackageTests",
+      "moduleOutputPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/include/AgentTapPackageTests-Swift.h",
+        "-color-diagnostics",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "agenttap"
+      ],
+      "outputFileMapPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules/AgentTapPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AgentTap" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AgentTap",
+      "-package-name",
+      "agenttap",
+      "-c",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentIcon.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentTapApp.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentType.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AppDelegate.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AppEnvironment.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/Components.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/EmptyStateView.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/IconRenderer.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/MainWindowController.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/MainWindowView.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/NotificationCoordinator.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SettingsView.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SettingsWindowController.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SetupView.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/StatusItemController.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-module-cache-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "AgentTap_main",
+      "-color-diagnostics",
+      "-swift-version",
+      "6",
+      "-enable-upcoming-feature",
+      "StrictConcurrency",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "agenttap",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "AgentTapCore" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AgentTapCore",
+      "-package-name",
+      "agenttap",
+      "-c",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AGJClient.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentModels.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentStore.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/CommandRunner.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PathEnvironment.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PermissionTransitionDetector.swift",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/SettingsStore.swift",
+      "-I",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/include/AgentTapCore-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "6",
+      "-enable-upcoming-feature",
+      "StrictConcurrency",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "agenttap",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "AgentTapCoreTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AgentTapCoreTests",
+      "-package-name",
+      "agenttap",
+      "-c",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/Tests/AgentTapCoreTests/PermissionTransitionDetectorTests.swift",
+      "-I",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-swift-version",
+      "6",
+      "-enable-upcoming-feature",
+      "StrictConcurrency",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "agenttap",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "AgentTapPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AgentTapPackageTests",
+      "-package-name",
+      "agenttap",
+      "-c",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/include/AgentTapPackageTests-Swift.h",
+      "-color-diagnostics",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "agenttap",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AgentTap" : [
+      "AgentTapCore"
+    ],
+    "AgentTapCore" : [
+
+    ],
+    "AgentTapCoreTests" : [
+      "AgentTapCore"
+    ],
+    "AgentTapPackageTests" : [
+      "AgentTapCoreTests",
+      "AgentTapCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap-entitlement.plist"
+    },
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentIcon.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentTapApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AgentType.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/AppEnvironment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/Components.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/EmptyStateView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/IconRenderer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/MainWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/MainWindowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/NotificationCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SettingsWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/SetupView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTap/StatusItemController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/sources"
+    },
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentIcon.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentTapApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AgentType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/AppEnvironment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/Components.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/EmptyStateView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/IconRenderer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/MainWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/MainWindowView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/NotificationCoordinator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SettingsWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/SetupView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/StatusItemController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTap.product/Objects.LinkFileList"
+    },
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AGJClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentModels.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/CommandRunner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PathEnvironment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PermissionTransitionDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/SettingsStore.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/sources"
+    },
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/Tests/AgentTapCoreTests/PermissionTransitionDetectorTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/sources"
+    },
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/sources"
+    },
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/PermissionTransitionDetectorTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.build/runner.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

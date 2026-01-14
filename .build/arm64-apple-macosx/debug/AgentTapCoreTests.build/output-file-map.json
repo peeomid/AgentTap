@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/master.swiftdeps"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/Tests/AgentTapCoreTests/PermissionTransitionDetectorTests.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/PermissionTransitionDetectorTests.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/PermissionTransitionDetectorTests.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/PermissionTransitionDetectorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/PermissionTransitionDetectorTests.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCoreTests.build/PermissionTransitionDetectorTests.dia"
+  }
+}

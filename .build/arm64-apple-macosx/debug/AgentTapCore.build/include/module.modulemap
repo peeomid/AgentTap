@@ -1,0 +1,3 @@
+module AgentTapCore {
+    header "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/include/AgentTapCore-Swift.h"
+}

@@ -1,0 +1,54 @@
+{
+  "": {
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/master.swiftdeps"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AGJClient.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AGJClient.dia"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentModels.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentModels.dia"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/AgentStore.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/AgentStore.dia"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/CommandRunner.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/CommandRunner.dia"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PathEnvironment.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PathEnvironment.dia"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/PermissionTransitionDetector.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/PermissionTransitionDetector.dia"
+  },
+  "/Users/luannguyenthanh/Development/Osimify/AgentTap/Sources/AgentTapCore/SettingsStore.swift": {
+    "dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore.d",
+    "object": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore.swift.o",
+    "swiftmodule": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore.swiftdeps",
+    "diagnostics": "/Users/luannguyenthanh/Development/Osimify/AgentTap/.build/arm64-apple-macosx/debug/AgentTapCore.build/SettingsStore.dia"
+  }
+}
