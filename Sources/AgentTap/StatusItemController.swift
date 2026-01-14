@@ -101,6 +101,7 @@ final class StatusItemController: NSObject, NSMenuDelegate {
                         .foregroundColor: NSColor.tertiaryLabelColor,
                         .paragraphStyle: paragraphStyle,
                     ])
+                spacer.isEnabled = false  // No hover, foregroundColor overrides dimming
                 menu.addItem(spacer)
             }
         }
@@ -313,11 +314,11 @@ final class StatusItemController: NSObject, NSMenuDelegate {
     }
 
     @objc private func openWindow() {
-        (NSApp.delegate as? AppDelegate)?.openMainWindow()
+        MainWindowController.shared.show(store: store, settings: settings)
     }
 
     @objc private func openSettings() {
-        (NSApp.delegate as? AppDelegate)?.openSettings()
+        SettingsWindowController.shared.show(settings: settings, store: store)
     }
 
     @objc private func quit() {
